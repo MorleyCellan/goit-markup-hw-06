@@ -688,3 +688,7 @@ img {
   border-radius: 4px;
   cursor: pointer;
 }
+
+.subscribe-btn-icon {
+  margin-left: 16px;
+}
